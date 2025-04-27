@@ -29,22 +29,22 @@
 
 ### 得意な技術:
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=remix,fastapi,graphql" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=remix,fastapi,graphql&theme=dark" />
   </a>
 </p>
 
 ### 触ったことがある＆勉強中の技術:
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,go,rust,electron,redis,vite,html,css" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,tailwindcss,python,go,hono,rust,electron,redis,vite,html,css&theme=dark" />
   </a>
 </p>
 
 ### その他:
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,supabase,vercel,cloudflare,firebase,mysql,postgres,sqlite,sentry,postman,neovim,linux,docker" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,supabase,vercel,cloudflare,firebase,mysql,postgres,sqlite,sentry,postman,neovim,linux,docker&theme=dark" />
   </a>
 </p>
 

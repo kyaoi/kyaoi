@@ -17,7 +17,7 @@
 ### 個人開発
 - Go製のCLIタイマーツール [📌リポジトリ](https://github.com/kyaoi/gimer)
 - GitHubのレビュー依頼の来ているPRを取得するChrome拡張機能 [📌リポジトリ](https://github.com/kyaoi/PR-Watcher)
-- NextとGoで作成した学習記録アプリ [PomoLingo](https://pomolingo.vercel.app/)
+- NextとGoで作成した学習記録アプリ PomoLingo 現在停止中
 
 
 などを作っています。
